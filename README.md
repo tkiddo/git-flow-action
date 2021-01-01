@@ -1,2 +1,5 @@
 # git-flow-action
-git flow实践
+
+git flow 实践
+
+version:v1.0.0
